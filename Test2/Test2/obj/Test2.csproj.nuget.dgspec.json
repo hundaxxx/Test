@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\章国锋\\Desktop\\Test2\\Test2\\Test2\\Test2.csproj": {}
+    "C:\\Users\\章国锋\\Desktop\\Test2\\Test3\\Test2\\Test2\\Test2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\章国锋\\Desktop\\Test2\\Test2\\Test2\\Test2.csproj": {
+    "C:\\Users\\章国锋\\Desktop\\Test2\\Test3\\Test2\\Test2\\Test2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\章国锋\\Desktop\\Test2\\Test2\\Test2\\Test2.csproj",
+        "projectUniqueName": "C:\\Users\\章国锋\\Desktop\\Test2\\Test3\\Test2\\Test2\\Test2.csproj",
         "projectName": "Test2",
-        "projectPath": "C:\\Users\\章国锋\\Desktop\\Test2\\Test2\\Test2\\Test2.csproj",
+        "projectPath": "C:\\Users\\章国锋\\Desktop\\Test2\\Test3\\Test2\\Test2\\Test2.csproj",
         "packagesPath": "C:\\Users\\章国锋\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\章国锋\\Desktop\\Test2\\Test2\\Test2\\obj\\",
+        "outputPath": "C:\\Users\\章国锋\\Desktop\\Test2\\Test3\\Test2\\Test2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\章国锋\\AppData\\Roaming\\NuGet\\NuGet.Config",
